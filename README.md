@@ -21,8 +21,8 @@ Reglas: Implementación fiel de las reglas originales de UNO.
 * IDE Recomendado: IntelliJ IDEA y Eclipse.
 
 # Equipo de Desarrollo 👩‍💻👨‍💻
-Ivan David Carvajal Sanabria
-David Esteban Lopez Castillo
-Ana Carolina Quiroga Ospina
-Daniel Alejandro Ramos Vargas
-Manuel Alejandro Terreros Rodriguez
+- Ivan David Carvajal Sanabria
+- David Esteban Lopez Castillo
+- Ana Carolina Quiroga Ospina
+- Daniel Alejandro Ramos Vargas
+- Manuel Alejandro Terreros Rodriguez
