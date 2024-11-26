@@ -5,8 +5,8 @@
 Este es un juego digital basado en el popular juego de cartas UNO. Incluye reglas estándar, manejo de turnos, y características especiales como cartas de acción. El juego permite jugar en modo multijugador local.
 
 ## Características ✨
-* Modo de Juego: multijugador local.
-* Interfaz de Usuario: Basada en HTML, CSS, JAVASCRIPT.
+- Modo de Juego: multijugador local.
+- Interfaz de Usuario: Basada en HTML, CSS, JAVASCRIPT.
 Mecánicas de Cartas:
 - Cambiar de color.
 - Saltar turnos.
